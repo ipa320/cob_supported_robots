@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.7 (2017-07-17)
+------------------
 * Merge pull request `#5 <https://github.com/ipa320/cob_supported_robots/issues/5>`_ from ipa-nhg/cob4-8
   setup cob4-8
 * setup cob4-8
