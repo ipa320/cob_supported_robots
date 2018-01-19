@@ -13,6 +13,7 @@ set(robotlist
     cob4-9
     cob4-10
     cob4-11
+    cob4-13
     cob4-16
     raw3-1
     raw3-3
