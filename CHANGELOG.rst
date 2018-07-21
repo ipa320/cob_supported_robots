@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.9 (2018-07-21)
+------------------
 * update maintainer
 * Merge pull request `#16 <https://github.com/ipa320/cob_supported_robots/issues/16>`_ from ipa-fxm/add_cob4-13_cardiff
   add cob4-13 cardiff
