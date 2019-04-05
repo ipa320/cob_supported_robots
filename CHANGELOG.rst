@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.11 (2019-04-05)
+-------------------
 * Merge pull request `#19 <https://github.com/ipa320/cob_supported_robots/issues/19>`_ from fmessmer/add_cob4-25
   add cob4-25
 * add cob4-25
