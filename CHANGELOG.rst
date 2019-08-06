@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.12 (2019-08-06)
+-------------------
 * Merge pull request `#21 <https://github.com/ipa320/cob_supported_robots/issues/21>`_ from fmessmer/melodify
   [Melodic] add melodic checks
 * add melodic support
