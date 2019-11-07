@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.13 (2019-11-07)
+-------------------
 * Merge pull request `#23 <https://github.com/ipa320/cob_supported_robots/issues/23>`_ from floweisshardt/migrate/travis_com
   migrate to travis-ci.com
 * migrate to travis-ci.com
