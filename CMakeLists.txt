@@ -26,5 +26,5 @@ set(robotlist
 )
 
 catkin_package(
-    CFG_EXTRAS cob_supported_robots-extras.cmake
+    CFG_EXTRAS ${PROJECT_NAME}-extras.cmake
 )
