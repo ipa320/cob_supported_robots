@@ -17,7 +17,6 @@ set(robotlist
     cob4-16
     cob4-18
     cob4-20
-    cob4-22
     cob4-23
     cob4-24
     cob4-25
