@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.14 (2020-03-18)
+-------------------
 * Merge pull request `#27 <https://github.com/ipa320/cob_supported_robots/issues/27>`_ from fmessmer/remove_cob4-22
   remove cob4-22
 * remove cob4-22
