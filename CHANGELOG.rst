@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.16 (2022-07-29)
+-------------------
 * Merge pull request `#29 <https://github.com/ipa320/cob_supported_robots/issues/29>`_ from pgehring/add_license
   add LICENSE
 * add LICENSE
