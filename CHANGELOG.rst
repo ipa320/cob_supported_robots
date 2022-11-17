@@ -2,8 +2,8 @@
 Changelog for package cob_supported_robots
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.6.17 (2022-11-17)
+-------------------
 * fix travis badge
 * Merge pull request `#31 <https://github.com/ipa320/cob_supported_robots/issues/31>`_ from fmessmer/add_cob4-30_ostwestfalen
   add cob4-30 ostwestfalen
